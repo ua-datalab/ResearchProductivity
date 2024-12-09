@@ -25,7 +25,7 @@ Rudy Salcido is an experienced leader with over 28 years of leadership experienc
 | Event  | 
 | :-- |
 |Date: Tue, Jan 28, 2025 |
-| Time: 10:00 Am - 11:30 AM |
+| Time: 10:00 AM - 11:30 AM |
 | [Registration link]() |
 
 
@@ -36,7 +36,7 @@ The purpose of this session is to alleviate the challenges with creating a cultu
 | Event  | 
 | :-- |
 |Date: Thu, Feb 20, 2025 |
-| Time: 10:00 Am - 11:30 AM |
+| Time: 10:00 AM - 11:30 AM |
 | [Registration link]() |
 
 The purpose of this session is to help you establish communication within your team, define research objectives, and ensure objectives are met. This session will introduce planning processes that provide a deliberate approach to communicating your research objectives internally to your team and externally to stakeholders. 
@@ -47,7 +47,7 @@ The purpose of this session is to help you establish communication within your t
 | Event  | 
 | :-- |
 |Date: Tue, Mar 18, 2025 |
-| Time: 10:00 Am - 11:30 AM |
+| Time: 10:00 AM - 11:30 AM |
 | [Registration link]() |
 
 
