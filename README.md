@@ -20,7 +20,7 @@ Rudy Salcido is an experienced leader with over 28 years of leadership experienc
 ***
 
 
-### Leadership through Project Management: Team Culture Tips for Successful Research Projects
+### 1. Leadership through Project Management: Team Culture Tips for Successful Research Projects
 
 | Event  | 
 | :-- |
@@ -31,7 +31,7 @@ Rudy Salcido is an experienced leader with over 28 years of leadership experienc
 
 The purpose of this session is to alleviate the challenges with creating a culture for diverse teams to thrive. This session will introduce you to a fresh perspective grounded in well-known characteristics of successful leadership: humility, authenticity, and a positive mental attitude. Additionally, tips on understanding team dynamics will be discussed to help with providing guidance, managing risk, and making decisions. Creating a positive work environment sets the conditions for collaboration, cooperation, and critical thinking. We will discuss how to establish and to reinforce the concepts that you can lead from anywhere within the organization to help achieve success. 
 
-### Planning for Your Next Research Project
+### 2. Planning for Your Next Research Project
 
 | Event  | 
 | :-- |
@@ -41,7 +41,7 @@ The purpose of this session is to alleviate the challenges with creating a cultu
 
 The purpose of this session is to help you establish communication within your team, define research objectives, and ensure objectives are met. This session will introduce planning processes that provide a deliberate approach to communicating your research objectives internally to your team and externally to stakeholders. 
 
-### Pragmatic Project Management for Everyone
+### 3. Pragmatic Project Management for Everyone
 
 
 | Event  | 
