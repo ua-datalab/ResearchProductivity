@@ -12,7 +12,7 @@ The Research Productivity Workshop aims to help alleviate the challenges of crea
 
 ### About the instructor
 
-**Instructor: Rudy G. Salcido, PMP.**
+**Instructor: Rudy G. Salcido, M.A., PMP**
 <br> **Contact: rsalcido06@arizona.edu**
 
 Rudy Salcido is an experienced leader with over 28 years of leadership experience as a United States Marine Corps Officer. He has a background in directing, project management, and instruction, with expertise in leading operational cross-functional teams and implementing effective change. Rudy holds a Bachelor of Science degree in Accounting from the University of Arizona, a Master of Arts in Administrative Leadership from the University of Oklahoma, and is certified as a Project Management Professional (PMP)® by the Project Management Institute. He currently serves as a Program Manager with the Data Science Institute, University of Arizona, planning and overseeing multiple projects.
