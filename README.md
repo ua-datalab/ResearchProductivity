@@ -26,7 +26,7 @@ Rudy Salcido is an experienced leader with over 28 years of leadership experienc
 | :-- |
 |Date: Tue, Jan 28, 2025 |
 | Time: 10:00 AM - 11:30 AM |
-| [Registration link]() |
+| [Registration link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26/edit) |
 
 
 The purpose of this session is to alleviate the challenges with creating a culture for diverse teams to thrive. This session will introduce you to a fresh perspective grounded in well-known characteristics of successful leadership: humility, authenticity, and a positive mental attitude. Additionally, tips on understanding team dynamics will be discussed to help with providing guidance, managing risk, and making decisions. Creating a positive work environment sets the conditions for collaboration, cooperation, and critical thinking. We will discuss how to establish and to reinforce the concepts that you can lead from anywhere within the organization to help achieve success. 
@@ -37,7 +37,7 @@ The purpose of this session is to alleviate the challenges with creating a cultu
 | :-- |
 |Date: Thu, Feb 20, 2025 |
 | Time: 10:00 AM - 11:30 AM |
-| [Registration link]() |
+| [Registration link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26/edit) |
 
 The purpose of this session is to help you establish communication within your team, define research objectives, and ensure objectives are met. This session will introduce planning processes that provide a deliberate approach to communicating your research objectives internally to your team and externally to stakeholders. 
 
@@ -48,7 +48,7 @@ The purpose of this session is to help you establish communication within your t
 | :-- |
 |Date: Tue, Mar 18, 2025 |
 | Time: 10:00 AM - 11:30 AM |
-| [Registration link]() |
+| [Registration link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26/edit) |
 
 
 The purpose of this session is to help track a project from start to finish. This session will highlight project management methodologies, tools, techniques, and AI tools. You will learn the best practices to develop effective meeting agendas from in-progress reviews to standup meetings. We will examine project examples to illustrate tracking tasks, milestones, and critical metrics from the beginning to the end of your project.
