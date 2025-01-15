@@ -25,7 +25,7 @@ Rudy Salcido is an experienced leader with over 28 years of leadership experienc
 | Event  | 
 | :-- |
 |Date: Tue, Jan 28, 2025 |
-| Time: 10:00 AM - 11:30 AM |
+| Time: 11:30 AM - 1:00 PM |
 | [Registration link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26/edit) |
 | [Zoom session](https://arizona.zoom.us/j/89667081542) |
 
