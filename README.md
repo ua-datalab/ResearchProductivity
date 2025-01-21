@@ -26,7 +26,7 @@ Rudy Salcido is an experienced leader with over 28 years of leadership experienc
 | :-- |
 |Date: Tue, Jan 28, 2025 |
 | Time: 11:30 AM - 1:00 PM |
-| [Registration link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26/edit) |
+| [Registration link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26) |
 | [Zoom session](https://arizona.zoom.us/j/89667081542) |
 
 
@@ -38,7 +38,7 @@ The purpose of this session is to alleviate the challenges with creating a cultu
 | :-- |
 |Date: Thu, Feb 20, 2025 |
 | Time: 10:00 AM - 11:30 AM |
-| [Registration link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26/edit) |
+| [Registration link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26) |
 | [Zoom session](https://arizona.zoom.us/j/89667081542) |
 
 
@@ -51,7 +51,7 @@ The purpose of this session is to help you establish communication within your t
 | :-- |
 |Date: Tue, Mar 18, 2025 |
 | Time: 10:00 AM - 11:30 AM |
-| [Registration link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26/edit) |
+| [Registration link](https://uarizona.co1.qualtrics.com/survey-builder/SV_cw3FdoEFy1SSp26) |
 | [Zoom session](https://arizona.zoom.us/j/89667081542) |
 
 
